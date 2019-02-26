@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "0fd753615110071e5a8aa20d9dcf76f1"
+build_time: [1551188267, 709559000]
+inputs:
+  "/Users/student/Desktop/IAK/StackKIA/StackKIA/StackKIA/StackKIAModel.swift": [9223372036, 854775807]
+  "/Users/student/Desktop/IAK/StackKIA/StackKIA/StackKIA/StackKIATableViewController.swift": [1551187846, 0]
+  "/Users/student/Desktop/IAK/StackKIA/StackKIA/StackKIA/AppDelegate.swift": [1551185782, 0]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1B67B3F1-7FBC-42AD-BDCA-9FC924651D9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B67B3F1-7FBC-42AD-BDCA-9FC924651D9A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>StackKIA project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StackKIA</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StackKIA</string>
+			<key>timeStartedRecording</key>
+			<real>572880863.505638</real>
+			<key>timeStoppedRecording</key>
+			<real>572880867.98624206</real>
+			<key>title</key>
+			<string>Build StackKIA</string>
+			<key>uniqueIdentifier</key>
+			<string>1B67B3F1-7FBC-42AD-BDCA-9FC924651D9A</string>
+		</dict>
+		<key>892CD310-2CB6-4181-AE0D-6F6B68C12BEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>892CD310-2CB6-4181-AE0D-6F6B68C12BEC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>StackKIA project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StackKIA</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StackKIA</string>
+			<key>timeStartedRecording</key>
+			<real>572879082.39994502</real>
+			<key>timeStoppedRecording</key>
+			<real>572879086.76324201</real>
+			<key>title</key>
+			<string>Build StackKIA</string>
+			<key>uniqueIdentifier</key>
+			<string>892CD310-2CB6-4181-AE0D-6F6B68C12BEC</string>
+		</dict>
+		<key>F69494D5-C099-4010-8DED-39FF91101B7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F69494D5-C099-4010-8DED-39FF91101B7D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>StackKIA project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StackKIA</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StackKIA</string>
+			<key>timeStartedRecording</key>
+			<real>572880646.77269995</real>
+			<key>timeStoppedRecording</key>
+			<real>572880656.00443602</real>
+			<key>title</key>
+			<string>Build StackKIA</string>
+			<key>uniqueIdentifier</key>
+			<string>F69494D5-C099-4010-8DED-39FF91101B7D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
