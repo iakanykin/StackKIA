@@ -6,35 +6,6 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>54985B17-AE39-47E0-9B25-874A80820F02</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>54985B17-AE39-47E0-9B25-874A80820F02.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>StackKIA project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>StackKIA</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug StackKIA</string>
-			<key>timeStartedRecording</key>
-			<real>572880655.98303604</real>
-			<key>timeStoppedRecording</key>
-			<real>572880863.15636897</real>
-			<key>title</key>
-			<string>Debug StackKIA</string>
-			<key>uniqueIdentifier</key>
-			<string>54985B17-AE39-47E0-9B25-874A80820F02</string>
-		</dict>
 		<key>E34BA1B2-B55D-49F6-BEC5-14707B02CB4D</key>
 		<dict>
 			<key>className</key>
@@ -63,35 +34,6 @@
 			<string>Debug StackKIA</string>
 			<key>uniqueIdentifier</key>
 			<string>E34BA1B2-B55D-49F6-BEC5-14707B02CB4D</string>
-		</dict>
-		<key>EC22C7BA-5CB6-47CE-BE22-9B126C78CDEF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>EC22C7BA-5CB6-47CE-BE22-9B126C78CDEF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>StackKIA project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>StackKIA</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug StackKIA</string>
-			<key>timeStartedRecording</key>
-			<real>572879086.74066997</real>
-			<key>timeStoppedRecording</key>
-			<real>572879425.54555595</real>
-			<key>title</key>
-			<string>Debug StackKIA</string>
-			<key>uniqueIdentifier</key>
-			<string>EC22C7BA-5CB6-47CE-BE22-9B126C78CDEF</string>
 		</dict>
 	</dict>
 </dict>

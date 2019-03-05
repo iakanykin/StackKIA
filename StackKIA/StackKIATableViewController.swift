@@ -8,12 +8,16 @@
 
 import UIKit
 
-class StackKIATableViewController: UITableViewController {
-
-    var referenceModel: [ReferenceModel] = []
+class ReferenceTableViewController: UITableViewController {
+    
+    var referenceModels: [ReferenceModel] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        navigationItem.title = ReferenceModel.name
+        
+        referenceModels = ReferenceModel.load()
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -25,17 +29,19 @@ class StackKIATableViewController: UITableViewController {
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell")!
         
-        let referenceModel = ReferenceModel[index]
+        let referenceModel = referenceModels[index]
         
-        cell.textLabel?.text = "Ряд \(index)"
-        cell.detailTextLabel?.text = ReferenceModel.detail
-        cell.imageView?.image = ReferenceModel.image
+        cell.textLabel?.text = referenceModel.title
+        cell.detailTextLabel?.text = referenceModel.detail
+        cell.imageView?.image = referenceModel.image
+        
+        cell.detailTextLabel?.numberOfLines = 5
         
         return cell
     }
     
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 88
+        return 120
     }
     
 }
