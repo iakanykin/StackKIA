@@ -35,7 +35,7 @@
 			<key>uniqueIdentifier</key>
 			<string>1B67B3F1-7FBC-42AD-BDCA-9FC924651D9A</string>
 		</dict>
-		<key>892CD310-2CB6-4181-AE0D-6F6B68C12BEC</key>
+		<key>F8160782-29A2-4011-9AD5-0377A834503C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>892CD310-2CB6-4181-AE0D-6F6B68C12BEC.xcactivitylog</string>
+			<string>F8160782-29A2-4011-9AD5-0377A834503C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,42 +56,13 @@
 			<key>signature</key>
 			<string>Build StackKIA</string>
 			<key>timeStartedRecording</key>
-			<real>572879082.39994502</real>
+			<real>573481449.67964697</real>
 			<key>timeStoppedRecording</key>
-			<real>572879086.76324201</real>
+			<real>573481466.671615</real>
 			<key>title</key>
 			<string>Build StackKIA</string>
 			<key>uniqueIdentifier</key>
-			<string>892CD310-2CB6-4181-AE0D-6F6B68C12BEC</string>
-		</dict>
-		<key>F69494D5-C099-4010-8DED-39FF91101B7D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F69494D5-C099-4010-8DED-39FF91101B7D.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>StackKIA project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>StackKIA</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build StackKIA</string>
-			<key>timeStartedRecording</key>
-			<real>572880646.77269995</real>
-			<key>timeStoppedRecording</key>
-			<real>572880656.00443602</real>
-			<key>title</key>
-			<string>Build StackKIA</string>
-			<key>uniqueIdentifier</key>
-			<string>F69494D5-C099-4010-8DED-39FF91101B7D</string>
+			<string>F8160782-29A2-4011-9AD5-0377A834503C</string>
 		</dict>
 	</dict>
 </dict>
